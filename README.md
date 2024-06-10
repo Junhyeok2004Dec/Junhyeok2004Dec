@@ -6,7 +6,10 @@ Jeju National University
 
 좋은놈 나쁜놈 **이상한놈**
 
+휴식중
 
+vacation
+'24 06 01 - '24 07 02
 
 
 
