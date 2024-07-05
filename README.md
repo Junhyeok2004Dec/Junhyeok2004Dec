@@ -5,14 +5,7 @@
 Jeju National University
 
 좋은놈 나쁜놈 **이상한놈**
-
-휴식중
-
-vacation
-'24 06 01 - '24 07 02
-
-
-
+The Good, The Bad, **The UGLY**
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Junhyeok2004dec&hide_progress=true)](https://github.com/anuraghazra/github-readme-stats)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Junhyeok2004dec&show_icons=true)
